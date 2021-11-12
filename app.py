@@ -33,4 +33,3 @@ for file in file_list:
     else:
         to_file = "/Users/admin/Documents/att_dashboard/" + file
         my_file.rename(to_file)
-
